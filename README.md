@@ -22,3 +22,19 @@ Vbai models are developed exclusively for hospitals, health centres and science 
  - **Very Mild Alzheimer's Risk**: The sick person has time to reach the level of Alzheimer's disease.
  - **No Risk**: The person does not have any risk.
  - **Parkinson's Disease**: The person has Parkinson's disease.
+
+[![Open in Hugging Face Spaces](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/spaces/Neurazum/Vbai-DPA-2.1)
+
+### How to run it on your own machine
+
+1. Install the requirements
+
+   ```
+   $ pip install -r requirements.txt
+   ```
+
+2. Run the app
+
+   ```
+   $ streamlit run app.py
+   ```
